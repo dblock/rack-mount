@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
 
   s.authors = ["Joshua Peek"]
   s.email   = "josh@joshpeek.com"
+  s.license = "MIT"
 end
